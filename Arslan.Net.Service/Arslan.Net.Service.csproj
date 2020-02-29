@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <RootNamespace>Arslan.Net.Service</RootNamespace>
+    <AssemblyName>Arslan.Net.Service</AssemblyName>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Selcuk Arslan</Authors>
+    <RepositoryUrl>https://github.com/arslani/arslan.net.service.git</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/arslani/arslan.net.service</PackageProjectUrl>
+    <PackageTags>1.0.0.0</PackageTags>
+    <Description>IService provides additionally:
+      * Property injection
+      * Inline injection
+      * Parameter/argument injection
+      * Extension injection
+    </Description>
+    <Version>1.0.0.0</Version>
+  </PropertyGroup>
+
+</Project>
